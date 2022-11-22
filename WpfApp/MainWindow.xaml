@@ -1,0 +1,31 @@
+﻿<Window
+    x:Class="WpfApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:WpfApp"
+    xmlns:ui="http://schemas.modernwpf.com/2019"
+    ui:WindowHelper.UseModernWindowStyle="True"
+    mc:Ignorable="d"
+    FontSize="14" WindowState="Maximized" ResizeMode="NoResize"
+    Title="Character Generation" Height="450" Width="800"
+    d:DataContext="{d:DesignInstance local:MainWindowViewModel}">
+
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Number: "  Margin="4" VerticalAlignment="Center"/>
+            <TextBox Text="{Binding Number}"  Margin="4"/>
+        </StackPanel>
+        <Button Content="Generate Vices" 
+                Command="{Binding GenerateVicesCommand}"
+                Padding="20, 3" Margin="4"/>
+        <Button Content="Generate Virtues" 
+                Command="{Binding GenerateVirtuesCommand}"
+                Padding="20, 3" Margin="4"/>
+        <TextBlock Text="Result:" Margin="4"/>
+        <TextBlock Text="{Binding Result}" Margin="4" MinHeight="300" MinWidth="600"/>
+        <Button Content="Copy to Clipboard" Padding="20, 3" Margin="4"
+                Command="{Binding CopyToClipboardCommand}"/>
+    </StackPanel>
+</Window>

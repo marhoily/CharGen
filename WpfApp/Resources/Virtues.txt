@@ -1,0 +1,315 @@
+1. Ability - a quality that permits or facilitates achievement or accomplishment
+
+2. Acceptance - a disposition to tolerate or accept people or situations
+
+3. Acuity - keenness of hearing, sight, or intellect
+
+4. Affability - good natured, friendly, and easy to talk to
+
+5. Altruism - the quality of unselfish concern for the welfare of others
+
+6. Appreciation - understanding of the nature or meaning or quality or magnitude of something
+
+7. Assiduousness - showing persistent and hard working effort in doing something
+
+8. Assertiveness - aggressive self assurance; given to making bold assertions
+
+9. Attentiveness - the trait of being observant and paying attention
+
+10. Autonomy - immunity from arbitrary exercise of authority; political independence
+
+11. Awareness - the ability to perceive, to feel, or to be conscious of events, objects or patterns
+
+12. Balance - the ability to remain poised; to give equal attention to all things; to be fair
+
+13. Beauty - the qualities that give pleasure to the senses
+
+14. Benevolence - an inclination to do kind or charitable acts
+
+15. Candor - the ability to make judgments free from discrimination or dishonesty
+
+16. Caring - feeling and exhibiting concern and empathy for others
+
+17. Caution - judiciousness in avoiding harm or danger
+
+18. Charity - a kindly and lenient attitude toward people
+
+19. Chastity - abstaining from sexual relations
+
+20. Cleanliness - the habit of keeping free of superficial imperfections
+
+21. Commitment - the trait of sincere and steadfast fixity of purpose
+
+22. Compassion - the humane quality of understanding the suffering of others and wanting to do something about it
+
+23. Confidence - freedom from doubt; belief in yourself and your abilities
+
+24. Conscientiousness - the trait of being painstaking and careful
+
+25. Consideration - the process of giving careful thought to something
+
+26. Contentment - happiness with one’s situation in life
+
+27. Cooperativeness - amenability: the trait of working well with others
+
+28. Courage - a quality of spirit that enables you to face danger or pain without showing fear
+
+29. Courteousness - exhibiting politeness and gracious good manners
+
+30. Creativity - a mental and social process involving the generation of new ideas or concepts
+
+31. Curiosity - a state in which you want to learn more about something
+
+32. Daring - courage combined with a willingness to take risks or attempt difficult or unconventional things
+
+33. Dauntlessness - resolute courageousness; not to be daunted or intimidated; fearless; intrepid; bold
+
+34. Dependability - worthy of reliance or trust; consistent in performance or behavior
+
+35. Detachment - cool headed withdrawal; avoiding emotional involvement
+
+36. Determination - the quality of being driven to do or achieve something; firmness of purpose
+
+37. Diligence - conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation
+
+38. Discernment - understanding; the mental ability to discriminate between like things
+
+39. Discretion - knowing how to avoid embarrassment or distress
+
+40. Dutifulness - piety by virtue of devotion; the willingness to be obedient out of a sense of moral obligation and/or respect
+
+41. Empathy - understanding and entering into another’s feelings
+
+42. Encouragement - the expression of approval and support
+
+43. Endurance - the power to withstand hardship or stress
+
+44. Enthusiasm - exuberance; overflowing with eager enjoyment or approval
+
+45. Equanimity - composure; steadiness of mind under stress
+
+46. Equity - conformity to rules or standards
+
+47. Erudite - characterized by great knowledge; learned or scholarly; educated; knowledgeable; wise, sapient
+
+48. Excellence - possessing good qualities in high degree
+
+49. Fairness - ability to make judgments based on predetermined standards with honesty
+
+50. Faithfulness - the quality of being steadfast in affection or allegiance
+
+51. Fastidiousness - the trait of being painstakingly careful about matters of taste or style
+
+52. Fidelity - faithfulness to one’s duties; loyalty
+
+53. Fitness - to be in good physical condition
+
+54. Flexibility - the quality of being adaptable or variable
+
+55. Focus - the concentration of attention or energy on something
+
+56. Foresight - providence by virtue of planning prudently for the future
+
+57. Forgiveness - compassionate feelings that support a willingness to excuse a mistake or offense
+
+58. Fortitude - strength of mind that enables one to endure adversity with courage
+
+59. Friendliness - a feeling of liking for another person; enjoyment in their company; agreeableness
+
+60. Generosity - the trait of being willing to give your money or time
+
+61. Gentleness - acting in a manner that is mild and even tempered
+
+62. Goodness - moral excellence or admirableness
+
+63. Graciousness - full of tact, kindness, and politeness
+
+64. Happiness - state of well being characterized by emotions ranging from contentment to intense joy
+
+65. Health - the state of well being free from disease
+
+66. Helpfulness - friendliness evidence by a kindly and helpful disposition
+
+67. Heroism - remarkable physical or moral courage
+
+68. Honesty - not disposed to cheat or defraud; dependable; to be frank
+
+69. Honor - an objectification of praiseworthiness, respect
+
+70. Hopefulness - aspirant; to wish for or desire something, regardless of the likelihood of its occurrence
+
+71. Hospitality - cordial reception; kindness in welcoming guests or strangers
+
+72. Humility - a disposition to be humble; a lack of false pride
+
+73. Humor - the use of ingenuity or verbal skill or incongruity to evoke laughter
+
+74. Idealism - the quality of believing that things should be pursued to their most perfect form
+
+75. Imagination - the ability to deal resourcefully with unusual problems; the ability to form a mental image of something that is not perceived as real and is not present to the senses
+
+76. Impartiality - an inclination to weigh both views or opinions equally
+
+77. Independence - freedom from control or influence of another or others
+
+78. Industriousness - persevering determination to perform a task
+
+79. Ingenuity - the process of applying ideas to solve problems or meet challenges
+
+80. Innocence - the state of being unsullied by sin or moral wrong; lacking a knowledge of evil
+
+81. Insightfulness - shrewdness shown by keen, deep perception
+
+82. Integrity - moral soundness
+
+83. Intuition - instinctive knowing (without the use of rational processes)
+
+84. Inventiveness - the power of creative imagination; the mental faculty to create something new
+
+85. Judiciousness - showing wisdom, good sense, or discretion, often with the underlying objective of avoiding trouble or waste
+
+86. Justice - using right or fair judgment, especially involved in the determination of rights and the assignment of rewards and punishments
+
+87. Kindness - the quality of being warmhearted and considerate and humane and sympathetic
+
+88. Knowledgeable - thoroughly acquainted through study or experience
+
+89. Lovingness - the ability to feel or show affection
+
+90. Loyalty - to bind oneself completely; allegiance
+
+91. Meekness - the feeling of patient, submissive humbleness
+
+92. Mercy - leniency and compassion shown toward offenders by a person or agency charged with administering justice
+
+93. Meticulousness - taking extreme care with details
+
+94. Moderation - the quality of avoiding extremes and excesses
+
+95. Modesty - freedom from vanity or conceit; formality and propriety of manner
+
+96. Morality - concern for the distinction between good and evil or right and wrong
+
+97. Neatness - having an orderly and clean condition; the state of being neat and trim
+
+98. Nonviolence - rejecting the use of physical violence; passive acceptance of oppression amid the struggle against it
+
+99. Nurturing - the quality of desiring another to grow as a person; motherly
+
+100. Obedience - dutiful or submissive behavior with respect to another person
+
+101. Openness - an attitude of ready accessibility (especially about one’s actions or purposes); to be without concealment; not secretive
+
+102. Optimism - a general disposition to expect the best in all things
+
+103. Patience - good natured tolerance of delay or incompetence
+
+104. Peacefulness - to be in a state that is calm and tranquil
+
+105. Perceptiveness - possessing or showing keen insight and understanding
+
+106. Preciseness - very careful about small details, especially of correct behavior
+
+107. Perseverance - to be persistent; continuing or repeating behavior
+
+108. Persistence - the quality of continuing steadily despite problems or difficulties
+
+109. Perspicacity - intelligence manifested by being astute (as in business dealings); the capacity to assess situations or circumstances shrewdly and to draw sound conclusions
+
+110. Philanthropy - voluntary promotion of human welfare
+
+111. Philomathy - pocessing a strong love of learning
+
+112. Piety - religious devotion or to spirituality; righteousness
+
+113. Potential - to possess the inherent capacity for coming into being
+
+114. Prudence - discretion in practical affairs
+
+115. Punctiliousness - very careful about the conventions of correct behavior and etiquette
+
+116. Purity - to lack sin or dilution
+
+117. Purposefulness - the quality of having meaning through having an aim
+
+118. Prayerfulness - to be devout; to cultivate a relationship with God
+
+119. Refinement - to achieve a highly developed state of perfection; the quality of excellence in thought and manners and taste
+
+120. Reliable - able to be trusted to do what is expected or has been promised
+
+121. Remembrance - the ability to recall past occurrences
+
+122. Respectfulness - courteous regard for people’s feelings; one who feels or manifests veneration
+
+123. Reverence - to have a profound respect for someone or something, almost to the point of fearfulness
+
+124. Resilience - the positive ability to adapt, to rebound, to cope with catastrophic failure or obstacles
+
+125. Responsibility - a form of trustworthiness; the trait of being answerable to someone for something for one’s conduct
+
+126. Restraint - discipline in personal and social activities
+
+127. Righteousness - always behaving according to a religious or moral code
+
+128. Self awareness - awareness of your own individuality
+
+129. Self confidence - belief of one’s own power, judgment, ability, etc.
+
+130. Self discipline - control of oneself; willpower
+
+131. Self reliance - the capacity to rely on one’s own capabilities, and to manage one’s own affairs
+
+132. Self respect - the knowledge of one’s own worth, valuing one’s self
+
+133. Selflessness - the quality of not putting yourself first but being willing to give your time or money or effort etc.
+
+134. Sensitivity - to be aware of an empathetic to the emotions of others
+
+135. Service - an act of help or assistance
+
+136. Sharing - using or enjoying something jointly with others
+
+137. Sincerity - the quality of being open and truthful; not deceitful or hypocritical; earnestness
+
+138. Skillfulness - the learned capacity to carry out pre determined results often with the minimum outlay of time, energy, or both
+
+139. Spirituality - concern with things of the soul, or of gods; reverence
+
+140. Sternness - uncompromising resolution
+
+141. Strength - the property of being physically or mentally strong
+
+142. Sympathy - an inclination to support or be loyal to or to agree with an opinion
+
+143. Tactfulness - the ability to have consideration in dealing with others and avoiding giving offense
+
+144. Temperance - the trait of avoiding excesses
+
+145. Tenacity - to be good at remembering; to be stubbornly unyielding
+
+146. Thankfulness - to be grateful as a positive emotion or attitude toward others in acknowledgment of a benefit on has received or will receive from another
+
+147. Thoroughness - conscientiousness in performing all aspects of a task; attention to detail
+
+148. Thoughtfulness - to possess the ability for calm, lengthy, intent consideration
+
+149. Trustworthiness - someone in whom one can place one’s trust and rest assured that the trust will not be betrayed
+
+150. Truthfulness - honesty, good faith, and sincerity in general; agreement with fact or reality in particular
+
+151. Understanding - the ability to think about and use concepts to deal adequately with an object
+
+152. Unity - an undivided or unbroken completeness or totality with nothing wanting
+
+153. Valor - exceptional or heroic courage when facing danger
+
+154. Vivaciousness - exhibiting or characterized by liveliness and high spiritedness
+
+155. Welcoming - providing a warm and friendly environment for guests or strangers
+
+156. Wholesomeness - the quality of being beneficial and generally good
+
+157. Wisdom - accumulated knowledge or erudition or enlightenment
+
+158. Work - the ability to exert oneself by doing mental or physical work for a purpose or out of necessity
